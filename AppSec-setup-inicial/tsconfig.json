@@ -9,7 +9,7 @@
 		"rootDirs": [
 			"./src"
 		],
-		"outDir": "./build",
+		"outDir": "AppSec-setup-inicial/build",
 		"allowJs": true,
 		"target": "es2017",
 		"esModuleInterop": true,
